@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HEARYE Blog</title>
+    <title>hearye_blog</title>
     <description>HearYe is an iOS app that allows students to find things to do on campus, http://www.hearye.io
 </description>
     <link>http://www.blog.hearye.io/</link>
     <atom:link href="http://www.blog.hearye.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Apr 2016 21:36:20 -0500</pubDate>
-    <lastBuildDate>Mon, 18 Apr 2016 21:36:20 -0500</lastBuildDate>
+    <pubDate>Sat, 30 Apr 2016 18:17:19 -0500</pubDate>
+    <lastBuildDate>Sat, 30 Apr 2016 18:17:19 -0500</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Initial Commit</title>
-        <description>&lt;p&gt;Yo, this is my first post. Check me out on &lt;a href=&quot;http://github.com/brandonfujii&quot;&gt;github&lt;/a&gt;, fam.&lt;/p&gt;
+        <title>hearye, hearye</title>
+        <description>&lt;p&gt;…And we’re live! Now that the website is up, the countdown begins for the release of app. Until then, we will be releasing updates and insight about the process as we go along. For this blog, we will give a little history about HearYe and its founders.&lt;/p&gt;
 
+&lt;p&gt;It all started one Friday night when both Drake and I were trying to figure out what to do for the evening. We knew that there were events happening around Northwestern, from political speaking events to movie screenings. However, the only resources that we knew of to find more information about the events were by trying to find flyers around campus or trying to search through Facebook events that were sparsely available.&lt;/p&gt;
+
+&lt;p&gt;After that evening, an idea was born. Why not just create a platform where every individual and group on campus can post their events and where anyone on campus can see them on their iPhone? So that is what we have set out to do at HearYe. Once we Drake and I nailed down that this is what we wanted to do, we added Brandon, Navin, and John to our team.&lt;/p&gt;
+
+&lt;p&gt;We are looking forward to the future of HearYe!&lt;/p&gt;
+
+&lt;p&gt;– Max, Co-founder&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Mar 2016 11:51:22 -0600</pubDate>
         <link>http://www.blog.hearye.io/first/beginning/2016/03/09/initial-commit.html</link>
