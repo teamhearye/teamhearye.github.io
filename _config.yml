@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
  HearYe is an iOS app that allows students to find things to do on campus, http://www.hearye.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.blog.hearye.io" # the base hostname & protocol for your site
-twitter_username: hearyeapp
+twitter_username: hearye_app
 
 # Build settings
 markdown: kramdown
