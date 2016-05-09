@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: hearye_blog
+title: The Town Crier
 email: info@hearye.io
 description: > # this means to ignore newlines until "baseurl:"
  HearYe is an iOS app that allows students to find things to do on campus, http://www.hearye.io
