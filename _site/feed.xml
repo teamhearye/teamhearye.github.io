@@ -6,15 +6,36 @@
 </description>
     <link>http://www.blog.hearye.io/</link>
     <atom:link href="http://www.blog.hearye.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 May 2016 20:51:38 -0500</pubDate>
-    <lastBuildDate>Tue, 10 May 2016 20:51:38 -0500</lastBuildDate>
+    <pubDate>Tue, 10 May 2016 21:18:20 -0500</pubDate>
+    <lastBuildDate>Tue, 10 May 2016 21:18:20 -0500</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Why Your Organization Needs to be on Slack</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://files.slack.com/files-pri/T0J7L8Y14-F17PZR7NX/slack_photo.png&quot; alt=&quot;HearYe on Slack&quot; /&gt;&lt;/p&gt;
+        <title>HearYe Update 2</title>
+        <description>&lt;p&gt;•	The HearYe Partnership Program with groups is now under way! We are proud to partner with Northwestern student groups and are excited that they are early adopters.&lt;/p&gt;
 
-&lt;p&gt;When connecting with coworkers, clients, and others, email has been the go-to medium.Email provided solutions to the problems of traditional “snail” mail. It was faster and cheaper, people could send attachments and forward messages to people. But as technology has changed, the user experience of emails for work teams has not. As HearYe found out, it involves a clunky process of providing different subjects, and adding recipients with each email, and if a thread of emails ensues, it can be difficult to navigate through all of the replies.&lt;/p&gt;
+&lt;p&gt;•	HearYe has begun integrating Amazon Web Services Lambda which expedites the request and response process and functions independently from a server, which will allow HearYe to take many requests without being overloaded.&lt;/p&gt;
+
+&lt;p&gt;•	A secure log-in system has now been integrated, and the event display feed is now in development!&lt;/p&gt;
+
+&lt;p&gt;•	Lastly, new marketing materials arrived! We have some awesome stickers, and look for us on &lt;a href=&quot;http://dilloday.com&quot;&gt;Dillo Day&lt;/a&gt; for surprise HearYe gear and swag!&lt;/p&gt;
+
+&lt;p&gt;– Max, Co-founder&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 May 2016 09:39:22 -0500</pubDate>
+        <link>http://www.blog.hearye.io/updates/2016/05/10/update2.html</link>
+        <guid isPermaLink="true">http://www.blog.hearye.io/updates/2016/05/10/update2.html</guid>
+        
+        
+        <category>updates</category>
+        
+      </item>
+    
+      <item>
+        <title>Why Your Organization Needs to be on Slack</title>
+        <description>&lt;p&gt;When connecting with coworkers, clients, and others, email has been the go-to medium.Email provided solutions to the problems of traditional “snail” mail. It was faster and cheaper, people could send attachments and forward messages to people. But as technology has changed, the user experience of emails for work teams has not. As HearYe found out, it involves a clunky process of providing different subjects, and adding recipients with each email, and if a thread of emails ensues, it can be difficult to navigate through all of the replies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://files.slack.com/files-pri/T0J7L8Y14-F17PZR7NX/slack_photo.png&quot; alt=&quot;HearYe on Slack&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As email was to traditional mail, Slack is to email. To fix all of the clutter that the email platform suffers from in work group communication, Slack allows communities, groups or teams join a “channel” through a URL or email invitation sent by the channel admin. These channels allow team members to communicate in real time, and in a more organic way similar to texting. However, in the channel files can be posted and are immediately shared to all members and can be interact with and previewed inside of Slack. If you want to break the large group up into smaller ones, sub-channels can be created for these smaller groups and private direct messaging is also available to all members in the channel.&lt;/p&gt;
 
