@@ -2,7 +2,7 @@
 layout: post
 title:  "Why Your Organization Needs to be on Slack"
 date:   2016-05-10 8:25:22 -0600
-categories: slack task management team startup work culture
+categories: articles
 ---
 
 ![HearYe on Slack](https://files.slack.com/files-pri/T0J7L8Y14-F17PZR7NX/slack_photo.png)

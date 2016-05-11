@@ -2,7 +2,7 @@
 layout: post
 title:  "hearye, hearye"
 date:   2016-03-09 11:51:22 -0600
-categories: first beginning
+categories: updates
 ---
 …And we’re live! Now that the website is up, the countdown begins for the release of app. Until then, we will be releasing updates and insight about the process as we go along. For this blog, we will give a little history about HearYe and its founders.
 
