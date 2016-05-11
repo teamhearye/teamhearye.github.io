@@ -6,12 +6,12 @@
 .site-header {
     z-index: 999;
     min-height: 56px;
-
-    // Positioning context for the mobile navigation icon
     position: absolute;
     width: 100%;
     background: transparent;
+    // Positioning context for the mobile navigation icon
 }
+
 
 .site-title {
     font-size: 22px;
@@ -20,11 +20,11 @@
     letter-spacing: 0px;
     margin-bottom: 0;
     float: left;
-    color: #fff;
+    color: #000;
 
     &,
     &:visited {
-        color: #fff;
+        color: #000;
     }
 }
 
@@ -38,8 +38,8 @@
     }
 
     .page-link {
+        color: #000;
         font-weight: 500;
-        color: #fff;
         line-height: $base-line-height;
         padding-bottom: 8px;
 
@@ -50,7 +50,7 @@
 
         &:hover {
             text-decoration: none;
-            border-bottom: 2px solid #fff;
+            border-bottom: 2px solid #000;
         }
     }
 
@@ -212,7 +212,11 @@
 /**
  * Posts
  */
+ .post {
+    padding-top: 120px;
+ }
 .post-header {
+
     margin-bottom: $spacing-unit;
 }
 

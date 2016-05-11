@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Inconsolata:400,700);
+@import url(https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,300);
 /**
  * Reset some basic elements
  */
@@ -197,9 +197,9 @@ pre {
   letter-spacing: 0px;
   margin-bottom: 0;
   float: left;
-  color: #fff; }
+  color: #000; }
   .site-title, .site-title:visited {
-    color: #fff; }
+    color: #000; }
 
 .site-nav {
   z-index: 999;
@@ -208,15 +208,15 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
+    color: #000;
     font-weight: 500;
-    color: #fff;
     line-height: 1.5;
     padding-bottom: 8px; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
     .site-nav .page-link:hover {
       text-decoration: none;
-      border-bottom: 2px solid #fff; }
+      border-bottom: 2px solid #000; }
   @media screen and (max-width: 600px) {
     .site-nav {
       position: absolute;
@@ -331,6 +331,9 @@ pre {
 /**
  * Posts
  */
+.post {
+  padding-top: 120px; }
+
 .post-header {
   margin-bottom: 30px; }
 
