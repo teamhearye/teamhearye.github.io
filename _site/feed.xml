@@ -6,9 +6,46 @@
 </description>
     <link>http://www.blog.hearye.io/</link>
     <atom:link href="http://www.blog.hearye.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 May 2016 00:42:39 -0500</pubDate>
-    <lastBuildDate>Mon, 09 May 2016 00:42:39 -0500</lastBuildDate>
+    <pubDate>Tue, 10 May 2016 20:44:55 -0500</pubDate>
+    <lastBuildDate>Tue, 10 May 2016 20:44:55 -0500</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Why Your Organization Needs to be on Slack</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://files.slack.com/files-pri/T0J7L8Y14-F17PZR7NX/slack_photo.png&quot; alt=&quot;HearYe on Slack&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When connecting with coworkers, clients, and others, email has been the go-to medium.Email provided solutions to the problems of traditional “snail” mail. It was faster and cheaper, people could send attachments and forward messages to people. But as technology has changed, the user experience of emails for work teams has not. As HearYe found out, it involves a clunky process of providing different subjects, and adding recipients with each email, and if a thread of emails ensues, it can be difficult to navigate through all of the replies.&lt;/p&gt;
+
+&lt;p&gt;As email was to traditional mail, Slack is to email. To fix all of the clutter that the email platform suffers from in work group communication, Slack allows communities, groups or teams join a “channel” through a URL or email invitation sent by the channel admin. These channels allow team members to communicate in real time, and in a more organic way similar to texting. However, in the channel files can be posted and are immediately shared to all members and can be interact with and previewed inside of Slack. If you want to break the large group up into smaller ones, sub-channels can be created for these smaller groups and private direct messaging is also available to all members in the channel.&lt;/p&gt;
+
+&lt;p&gt;Using different channels for different projects, but still maintaining a general channel allows groups to break up and focus on certain tasks whilst also being able to communicate to the full team. HearYe implemented slack back in February of this year, and it completely changed team communication and collaboration. Prior to Slack, our team was using Facebook Messenger, and that quickly became cluttered with different topic threads and files. After switching to Slack, team communication became much more organized, task management more transparent, file sharing more expedient, and project execution more precise. As a team, we have yet to even see the full potential of Slack, but we know that the more we use it, the more productive we will be.&lt;/p&gt;
+
+&lt;p&gt;As a business or an organization, it’s time to leave email behind when it comes to project management and communication. Email chains get so cluttered that you spend more time digging through your inbox trying to find the right email instead of using that time to work on the project you came to complete. Slack’s simple interface and multitude of features ensures that you will be on top of your game when communicating and working with your coworkers and group mates. Slack is the way is the way of the future.&lt;/p&gt;
+
+&lt;p&gt;As a postscript, our team believes in the future of Slack so much, that they created their own task manager application for Slack called Octopus!&lt;/p&gt;
+
+&lt;p&gt;– Max, Co-founder&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 May 2016 09:25:22 -0500</pubDate>
+        <link>http://www.blog.hearye.io/slack/task/management/team/startup/work/culture/2016/05/10/slack.html</link>
+        <guid isPermaLink="true">http://www.blog.hearye.io/slack/task/management/team/startup/work/culture/2016/05/10/slack.html</guid>
+        
+        
+        <category>slack</category>
+        
+        <category>task</category>
+        
+        <category>management</category>
+        
+        <category>team</category>
+        
+        <category>startup</category>
+        
+        <category>work</category>
+        
+        <category>culture</category>
+        
+      </item>
     
       <item>
         <title>hearye, hearye</title>
