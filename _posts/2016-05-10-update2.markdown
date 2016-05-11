@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "HearYe Update 2"
+date:   2016-05-10 8:39:22 -0600
+categories: updates
+---
+
+•	The HearYe Partnership Program with groups is now under way! We are proud to partner with Northwestern student groups and are excited that they are early adopters.
+•	HearYe has begun integrating Amazon Web Services Lambda which expedites the request and response process and functions independently from a server, which will allow HearYe to take many requests without being overloaded.
+
+•	A secure log-in system has now been integrated, and the event display feed is now in development!
+
+•	Lastly, new marketing materials arrived! We have some awesome stickers, and look for us on [Dillo Day](http://dilloday.com) for surprise HearYe gear and swag!
+
+
+– Max, Co-founder
