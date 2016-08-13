@@ -1,4 +1,9 @@
-Don’t Be Intimidated By Amazon Web Services
+---
+layout: post
+title:  "Don't Be Intimidated By Amazon Web Services"
+date:   2016-08-11 8:31:12 -0600
+categories: learning aws
+---
 
 ![AWS Lambda](http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2014/11/aws-reinvent-lambda.png)
 
@@ -11,5 +16,7 @@ The biggest lesson I learned during my first year and a half as a developer is t
 When I first signed on to AWS I was overwhelmed by everything I saw. AWS has an extensive [list of products](https://en.wikipedia.org/wiki/Amazon_Web_Services#List_of_products) and I had no idea where to begin. Rather than reading the entire AWS documentation as my junior high school self probably would have attempted, I decided to briefly skim the purpose of different AWS products to plan my strategy. Once I decided which products I was interested in, I read the sections of the AWS documentation that corresponded to those products. This part of my strategy was a bit difficult since the AWS documentation isn’t exactly the best written reference guide out there. Consequently, I supplemented everything the documentation didn’t make clear by googling it, which usually led me to Stack Overflow posts. Chances are, if you’re stuck while coding or generally confused about a programming concept, someone has posted about it on Stack Overflow.
 
 The big takeaway from this is that AWS is a massive service with tools for just about anything you need for developing your product. It’s overwhelming, especially for young developers. But if you’re patient and do a bit of reading up on the specific tools you need, there’s no reason why you should be intimidated by Amazon Web Services.
+
+- Navin
 
 
