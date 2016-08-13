@@ -17,6 +17,6 @@ When I first signed on to AWS I was overwhelmed by everything I saw. AWS has an 
 
 The big takeaway from this is that AWS is a massive service with tools for just about anything you need for developing your product. It’s overwhelming, especially for young developers. But if you’re patient and do a bit of reading up on the specific tools you need, there’s no reason why you should be intimidated by Amazon Web Services.
 
-- Navin
+-- Navin
 
 
