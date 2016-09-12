@@ -9,11 +9,11 @@ Managing a project is difficult. With the mobile application creation process, i
 
 With the help of two tools, however, the task of mobile application execution became a little easier. Daily standups and a powerful project management organization service were powerful aids.
 
-![Stand ups](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwin16Ge_4jPAhUI4SYKHRh6B-AQjRwIBw&url=https%3A%2F%2Fagileforest.com%2F2012%2F09%2F26%2Fwhat-is-an-effective-stand-up%2F&bvm=bv.132479545,d.dmo&psig=AFQjCNEEoM7N-fmBrZEUrEfyjzeISfX56A&ust=1473741000371362)
+![Stand ups](https://agileforest.files.wordpress.com/2012/09/images-11.jpg?w=1280)
 
 The term “standup” literally derives from the act of standing up in a meeting, and for us at HearYe early on in the summer we decided that our standups would comprise of daily phone calls in which each team member would state what they accomplished during the previous day, what they were going to accomplish during the course of the next day and if there were any bugs/hitches in the previous day’s work. These standups allowed us to itemize our goals and allow us to achieve success one step at a time and to focus on exactly what we need to do. They were also very helpful because with the team being spread out and working full time during the day at other jobs, it helped parse out a large project in daily sized tasks and it encouraged work to be completed every day. These stand ups are continuing right now and are responsible for much of our success so far.
 
-![Pivotal Tracker](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiPk5q7_4jPAhVEQiYKHYI1C78QjRwIBw&url=https%3A%2F%2Fcrozdesk.com%2Fproviders%2Fpivotaltracker&bvm=bv.132479545,d.dmo&psig=AFQjCNGU61UCS1AwwAWYV53-JTa2tajWng&ust=1473741050338145)
+![Pivotal Tracker](https://ga1.imgix.net/screenshot/o/10386-pivotal-tracker-1461323190-6890938?ixlib=rb-1.0.0&ch=Width%2CDPR&auto=format)
 
 Secondly, a project management service has assisted in HearYe’s progress. With the multitude of components that comprise the app, it was key that we as a team had the ability to designate tasks, view their priority and status, and view progress as a whole. To do this, we began using Pivotal Tracker, a free project management tool. With its plethora of developer-oriented features, we have access to all of the features listed above and more. Regardless of whether the team was together or not, we could view each other’s progress on action items, assign items to each other, and estimate how long each item would take to complete based off of Pivotal Tracker’s point system.
 
